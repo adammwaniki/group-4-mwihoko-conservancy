@@ -1,0 +1,19 @@
+h1 {
+    font-size: 60px;
+    font-style: italic;
+    font-weight: 100;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+ }
+
+ .wild {
+    margin: 100px;
+    padding: 10px;
+    display: block;
+ }
+
+ .wild img:hover{
+    transform: scale(0.7) rotate(-20deg);
+    border-radius: 20px;
+ }
